@@ -31,9 +31,9 @@ Once the validation results are imported into the Reviewer table, you can query,
 2. On the main menu, click Customize > Toolbars > Data Reviewer. 
 3. Click the Reviewer Session Manager button ![App](Capture button.PNG) on the Data Reviewer toolbar. 
 
-The Reviewer Session Manager dialog box appears.
+  The Reviewer Session Manager dialog box appears.
 
-![App](Capture_Reviewer.PNG)
+  ![App](Capture_Reviewer.PNG)
 
 
 4. Click Browse and browse to the Reviewer workspace that was created by the ParseS58LogFile.exe tool. 
