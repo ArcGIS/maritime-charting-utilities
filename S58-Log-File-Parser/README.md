@@ -24,11 +24,11 @@ Once the validation results are imported into the Reviewer table, you can query,
 
 1. Open ArcMap.
 2. On the main menu, click Customize > Toolbars > Data Reviewer. 
-3. Click the Reviewer Session Manager button ![App](S58-Log-File-Parser/Capture button.PNG) on the Data Reviewer toolbar. 
+3. Click the Reviewer Session Manager button ![App](Capture button.PNG) on the Data Reviewer toolbar. 
 
 The Reviewer Session Manager dialog box appears.
 
-![App](S58-Log-File-Parser/Capture_Reviewer.PNG)
+![App](Capture_Reviewer.PNG)
 
 
 4. Click Browse and browse to the Reviewer workspace that was created by the ParseS58LogFile.exe tool. 
@@ -37,7 +37,7 @@ The Reviewer Session Manager dialog box appears.
 7. Click Start Session. 
 8. Click Close. 
 9. Add the necessary Production Database feature classes to the Table Of Contents window. 
-10. Click the Reviewer Table button ![App](S58-Log-File-Parser/Capture_table.PNG) on the Data Reviewer toolbar. 
+10. Click the Reviewer Table button ![App](Capture_table.PNG) on the Data Reviewer toolbar. 
 
 In the Reviewer table, you can zoom to, pan to, select, and evaluate individual errors that have been recorded so that they can be corrected.
 
