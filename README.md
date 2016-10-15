@@ -1,4 +1,4 @@
-# maritime-charting-utilities
+# S58-Log-File-Parser
 
 This repository contains tools that complement the ArcGIS for Maritime: Charting extension. Learn more about ArcGIS for Maritime: Charting [here](http://www.esri.com/software/arcgis/extensions/maritime/charting)
 
