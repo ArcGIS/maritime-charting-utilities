@@ -1,4 +1,4 @@
-## S58 Log File Parser
+## S-58 Log File Parser
 
 ENCs created by ArcGIS for Maritime: Charting can be analyzed in third-party validation software to validate the data against S-58. Once the data is validated, the log file can be parsed by the ParseS58LogFile.exe tool to import errors and warnings as records in the Reviewer table.
 
