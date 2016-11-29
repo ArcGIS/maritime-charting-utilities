@@ -56,7 +56,7 @@ Once the validation results are imported into the Reviewer table, you can query,
 9. Add the necessary Production Database feature classes to the Table Of Contents window. 
 10. Click the Reviewer Table button ![App](Capture_table.PNG) on the Data Reviewer toolbar. 
 
-In the Reviewer table, you can zoom to, pan to, select, and evaluate individual errors that have been recorded so that they can be corrected.
+In the Reviewer table, you can zoom to, pan to, select, and evaluate individual errors that have been recorded so that they can be corrected. If there is a feature to write the error back to, it is represented in the Data Reviewer table as a Feature Geometry. If there are coordinates given in the third party validation output, a Reviewer Geometry is created. In ENC Analyzer version 3.4, coordinates are provided for certain types of errors, as well as for errors related to SOUNDG objects. As a result, not all records have a Reviewer Geometry. Since there are no primitives in the NIS, there are no Feature Geometries, and only a Reviewer Geometry. 
 
 
 ## Resources
