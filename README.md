@@ -2,7 +2,7 @@
 
 ENCs created by ArcGIS for Maritime: Charting can be analyzed in third-party validation software to validate the data against S-58. Once the data is validated, the log file can be parsed by the ParseS58LogFile.exe tool to import errors and warnings as records in the Reviewer table.
 
-This repository contains tools that complement the ArcGIS for Maritime: Charting extension. Learn more about ArcGIS for Maritime: Charting [here](http://www.esri.com/software/arcgis/extensions/maritime/charting)
+This repository contains tools that complement the ArcGIS for Maritime: Charting extension. Learn more about ArcGIS for Maritime: Charting [here](http://www.esri.com/software/arcgis/extensions/maritime/charting).
 
 [View some of these tools in action](https://www.youtube.com/channel/UC3TLoqZ0pAY9CU3ff58k3rg/)
 
